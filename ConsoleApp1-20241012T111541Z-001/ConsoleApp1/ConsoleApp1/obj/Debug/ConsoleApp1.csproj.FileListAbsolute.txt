@@ -1,0 +1,14 @@
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kocan\OneDrive\Máy tính\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MSI GL75\Downloads\ConsoleApp1-20241012T111541Z-001\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
